@@ -1,5 +1,5 @@
 - print ("Hello World") I’m @JohnVonPaumgartten
 - 👀 I’m interested in language learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on any projects you have!
 - 📫 How to reach me: johnvonpaumgartten@gmail.com
